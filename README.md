@@ -14,13 +14,13 @@ Login Screen:
 
 ![](Screens/login.jpg)
 
-Smart On:
+SmartMode On:
 
-![](Screens/smartmodeOn.jpg)
+![](Screens/smartOn.jpg)
 
-Smart Off:
+SmartMode Off:
 
-![](Screens/smartmodeOff.jpg)
+![](Screens/smartOff.jpg)
 
 Profile Card:
 
