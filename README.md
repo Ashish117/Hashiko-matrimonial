@@ -14,11 +14,11 @@ Login Screen:
 
 ![](Screens/login.jpg)
 
-SmartMode On:
+Smart On:
 
 ![](Screens/smartmodeOn.jpg)
 
-Smartmode Off:
+Smart Off:
 
 ![](Screens/smartmodeOff.jpg)
 
